@@ -1,0 +1,6 @@
+4-7-2025
+Starting day one of learning python
+first thing that I have learnt today is about the print function, and about strings
+print function prints everything that is written in it
+a string is a collection of words or the characters that won't have any effect on the code and they will just be printed
+
